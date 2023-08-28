@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mia :) </h1>
+<h1>Hi, I'm Mia </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
