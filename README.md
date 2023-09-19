@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Cloud Detection Lab]
-  - [Vulnerability Management Lab]
-  - [File Integrity Monitor]
+  - Azure Cloud Detection Lab
+  - Vulnerability Management Lab
+  - File Integrity Monitor
 
 <h2> 📄 Certifications:</h2>
 
