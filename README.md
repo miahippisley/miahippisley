@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/miahippisley/ActiveDirectoryLab)
+  - [Azure Cloud Detection Lab]
+  - [Vulnerability Management Lab]
+  - [File Integrity Monitor]
 
 <h2> 📄 Certifications:</h2>
 
