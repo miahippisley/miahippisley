@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Azure Cloud Detection Lab](hub.com/miahippisley/Microsoft-Azure-Sentinel-Live-Attack-Map)
+  - [Azure Cloud Detection Lab](https://github.com/miahippisley/Microsoft-Azure-Sentinel-Live-Attack-Map)
   - Vulnerability Management Lab
   - File Integrity Monitor
 
