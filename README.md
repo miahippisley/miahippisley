@@ -4,7 +4,7 @@
 
   - [Azure Cloud Detection Lab](https://github.com/miahippisley/Microsoft-Azure-Sentinel-Live-Attack-Map)
   - Vulnerability Management Lab
-  - File Integrity Monitor
+  - [File Integrity Monitor](https://github.com/miahippisley/File-Integrity-Monitor-)
 
 <h2> 📄 Certifications:</h2>
 
