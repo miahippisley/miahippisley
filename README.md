@@ -6,10 +6,7 @@
   - [Vulnerability Management Lab](https://github.com/miahippisley/Vulnerability-Management-Lab)
   - [File Integrity Monitor](https://github.com/miahippisley/File-Integrity-Monitor-)
 
-<h2> 📄 Certifications:</h2>
 
-- [Google Cybersecrity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-  
 <h2> 🤳 Connect with me:</h2>
 
 
